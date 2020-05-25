@@ -1,0 +1,7 @@
+var DatepickerModel = /** @class */ (function () {
+    function DatepickerModel() {
+    }
+    return DatepickerModel;
+}());
+export { DatepickerModel };
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiZGF0ZS1waWNrZXItbW9kZWwuanMiLCJzb3VyY2VSb290Ijoibmc6Ly9ha2JhcmktZGF0ZS1waWNrZXIvIiwic291cmNlcyI6WyJsaWIvbW9kZWwvZGF0ZS1waWNrZXItbW9kZWwudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBRUE7SUFBQTtJQVNBLENBQUM7SUFBRCxzQkFBQztBQUFELENBQUMsQUFURCxJQVNDIiwic291cmNlc0NvbnRlbnQiOlsiXHJcblxyXG5leHBvcnQgY2xhc3MgRGF0ZXBpY2tlck1vZGVsIHtcclxuXHJcbiAgICBkYXk6IG51bWJlcjtcclxuICAgIG1vbnRoOiBudW1iZXI7XHJcbiAgICB5ZWFyOiBudW1iZXI7XHJcbiAgICBhY3RpdmU6IGJvb2xlYW47XHJcbiAgICBpc0VtcHR5OiBib29sZWFuO1xyXG5cclxuXHJcbn0iXX0=

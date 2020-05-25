@@ -1,0 +1,41 @@
+{
+  "name": "akbari-date-picker",
+  "version": "0.0.9",
+  "peerDependencies": {
+    "@angular/common": "^9.1.9",
+    "@angular/core": "^9.1.9"
+  },
+  "dependencies": {
+    "jalali-moment": "3.3.3",
+    "tslib": "^1.10.0"
+  },
+  "keywords": [
+    "angular",
+    "angular 9",
+    "angular9",
+    "jalali",
+    "persion datepicker",
+    "jalali datepicker",
+    "js",
+    "shamsi",
+    "khorshidi",
+    "persian",
+    "date",
+    "picker",
+    "datepicker",
+    "datepicker farsi",
+    "typescript",
+    "ts",
+    "farsi"
+  ],
+  "main": "bundles/akbari-date-picker.umd.js",
+  "module": "fesm5/akbari-date-picker.js",
+  "es2015": "fesm2015/akbari-date-picker.js",
+  "esm5": "esm5/akbari-date-picker.js",
+  "esm2015": "esm2015/akbari-date-picker.js",
+  "fesm5": "fesm5/akbari-date-picker.js",
+  "fesm2015": "fesm2015/akbari-date-picker.js",
+  "typings": "akbari-date-picker.d.ts",
+  "metadata": "akbari-date-picker.metadata.json",
+  "sideEffects": false
+}
